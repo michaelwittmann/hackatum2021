@@ -13,7 +13,7 @@
 
 # 1.0 Intro into the dataset
 ## Dataset
-We suggest using the following open dataset `dataset\turkish_retail_data`\
+We suggest to use the following open dataset `dataset\turkish_retail_data`\
 _Source (https://www.kaggle.com/berkayalan/retail-sales-data)_
 
 ### Overview
