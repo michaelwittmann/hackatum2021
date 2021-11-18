@@ -5,8 +5,8 @@ This repo shall provide you a collection of inspirations, examples, libraries an
 This repository is structured as follows:
 
 ## `/dataset`
-The suggested retail dataset for this challenge \
-(Retrieved from [kaggle.com](https://www.kaggle.com/berkayalan/retail-sales-data) under CC0: Public Domain)
+The suggested retail dataset for this challenge. \
+Download the dataset from [kaggle.com](https://www.kaggle.com/berkayalan/retail-sales-data) (If you don't have a Kagggle account, you need to register first.)
 
 ## `/docs`
 Background information and hand-picked links for readings and tutorials.
