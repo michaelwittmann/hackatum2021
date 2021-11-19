@@ -22,7 +22,7 @@ Background information and hand-picked links for readings and tutorials.
 ## `/notebooks`
 Notebooks with examples on data analysis and possible approaches to generate insights.
 - [1-0_data_exploration.ipynb](notebooks/1-0_data_exploration.ipynb)
-- [1-1_examples_insights.ipynb](notebooks/1-1_example_insights.ipynb)
+- [1-1_example_insights.ipynb](notebooks/1-1_example_insights.ipynb)
 
 
 
